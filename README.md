@@ -1,4 +1,4 @@
-- 👋  Hello, I’m Hyewon Joo @joo7875
+- 👋  Hi, I’m Hyewon Joo @joo7875
 - 👀  I’m interested in learning new tech, and love travelling, painting and animals.
 - 🌱  I’m currently boosting my software engineering skills.
 - 💞️  I’d love to collaborate on fun projects.
