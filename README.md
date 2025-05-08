@@ -1,4 +1,4 @@
-Be unique. You are more than you think.
+You are more than you think.
 
 <!---
 joo7875/joo7875 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
